@@ -1,0 +1,29 @@
+{
+  "name": "yusrestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliuscarvajal/yusrestapi.git"
+  },
+  "author": "Julius Carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliuscarvajal/yusrestapi/issues"
+  },
+  "homepage": "https://github.com/juliuscarvajal/yusrestapi#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "bunyan": "^1.6.0",
+    "koa": "^1.1.2",
+    "koa-router": "^5.4.0",
+    "lodash": "^4.3.0"
+  }
+}
