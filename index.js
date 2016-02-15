@@ -1,3 +1,5 @@
+require('babel-register')({
+  "presets": ["node5"]
+});
 
-require('babel/register');
 require('./app/app.js');

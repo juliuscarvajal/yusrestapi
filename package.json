@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/juliuscarvajal/yusrestapi#readme",
   "dependencies": {
-    "babel": "^6.5.2",
+    "babel-core": "^6.5.2",
+    "babel-preset-node5": "^10.5.0",
     "bunyan": "^1.6.0",
     "koa": "^1.1.2",
     "koa-router": "^5.4.0",
